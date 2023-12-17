@@ -6,22 +6,22 @@
 <p>In the universe of supply chain optimization, I'm your Solution & Integration maestro. Picture this: we're not just implementing tech; we're orchestrating a symphony of Kinaxis solutions to make your supply chain sing! It's like fitting puzzle pieces together, tailoring the perfect harmony for your business.</p>
 <p>On the cybersecurity front, I'm the <a href ="https://owasp.org/www-chapter-thoothukudi/">Chapter Leader of OWASP Thoothukudi</a> & OSINT Sherlock. Instead of a magnifying glass, I use the vast world of open-source data to unveil potential threats. Think of it like being a digital detective, piecing together clues from the internet to keep your digital world safe and sound.</p>
 <span id="a">maari@krish</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->what i bring to the table<br/>
-<p><b>Kinaxis Solution & Integration Consulting</b></p>
+<p><b>Kinaxis Solution & Integration Consulting</b>
 <ul>
   <li><b>Smooth Tech Choreography:</b> I specialize in making sure your Kinaxis solutions dance seamlessly with your existing systems. No tech hiccups here!</li>
   <li><b>Custom-Tailored Solutions:</b> It's not one-size-fits-all. I craft solutions like a bespoke suit – perfectly fitted to meet your unique supply chain needs.</li>
   <li><b>Tech Know-How for All:</b> I'm all about empowering your team with the knowledge to navigate the tech landscape. Let's make sure everyone's on the same page!</li>
-</ul>  
-<p><b>OSINT Wizardry in Cyber Security</b></p>
+</ul></P>  
+<p><b>OSINT Wizardry in Cyber Security</b>
 <ul>
   <li><b>Digital Footprint Exploration:</b> Ever wondered what your digital footsteps look like? I explore the vast digital landscape to find and secure your digital trails.
   <li><b>Threat Sleuthing:</b> I'm your virtual detective, translating raw data into insights to anticipate and thwart potential cyber threats.
   <li><b>Cyber Savvy Culture:</b> Let's make your team the guardians of your digital realm! I’m all about spreading awareness and creating a culture of cyber resilience.</li>
-</ul>
-<span id="a">maari@krish</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->dive into my world.txt<br/><br/>
+</ul></P>
+<span id="a">maari@krish</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->dive into my world.txt<br/>
 Want to pick my brain? Check out my <a href ="https://maari-krish.blogspot.com/">Blog</a> for insights, tips, and a sprinkle of tech wisdom. It's the backstage pass to what goes on in the mind of a Kinaxis expert and a cyber Sherlock.
 <p> Also you can visit my other social media profiles, here:- <br> <a href="https://github.com/maari-krish">Security Tools and Projects.</a> <br ><a href="https://www.facebook.com/people/Maari-Krish/100004227015987/">Facebook</a> <br> <a href="https://www.linkedin.com/in/maari-krish">LinkedIn</a> <br> <a href="https://www.instagram.com/maari_krish/">Instagram</a> <br> <a href="https://maari-krish.medium.com/">Medium</a></p>
-<span id="a">maari@krish</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->get in touch.txt<br/>
+<span id="a">maari@krish</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->get in touch.txt
 <p>Ready to collaborate on making your tech sing and keeping your digital world safe? Shoot me a message through the <a href="mailto: marikrish@protonmail.com">maari@krish</a>. Let's make tech and security easy and fun!
 
 Thanks for dropping by my digital playground. Let's turn your tech challenges into victories together!</p>
