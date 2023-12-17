@@ -1,2 +1,2 @@
 # maari-krish.com
-I'm MariMuthu, Cyber Security Enthusiast
+Welcome to My Digital Playground: Where Solutions Meet Insights!
